@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/public_html/
-    - /repositories/inti-web/cp * $DEPLOYPATH
-  
+    - export DEPLOYPATH=/home/intiestu/public_html/
+    - /bin/cp index.html $DEPLOYPATH
+   
