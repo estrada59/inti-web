@@ -13,5 +13,7 @@ deployment:
     - /bin/cp contact.html $DEPLOYPATH
     - /bin/cp index2.html $DEPLOYPATH
     - /bin/cp index3.html $DEPLOYPATH
+    - /bin/cp services.html $DEPLOYPATH
+    - /bin/cp portfolio.html $DEPLOYPATH
 
    
